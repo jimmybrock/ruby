@@ -1,0 +1,32 @@
+body {
+	background-color: #c2a7f;
+	font-family: san-serif;
+}
+
+#logo {
+	color: #2a1959
+	font-weight: bold;
+	font-size: 2.0em;
+	text-align: center;
+}
+
+#boozallen {
+	font-size: 1em;
+}
+
+#teksystems {
+	font-size: 1em;
+}
+
+#kforce {
+	font-size: 1em;
+}
+
+h2 {
+	color: #474b94
+	font-size: 1.2em;
+}
+
+h2, div {
+	margin-left: 120px;
+}
